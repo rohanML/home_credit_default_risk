@@ -1,7 +1,7 @@
 Home Credit Default Risk
 ==============================
 
-# To predict clients' loan repayment abilities
+To predict clients' loan repayment capability
 
 ### Table of Contents
 
