@@ -3,9 +3,9 @@ Home Credit Default Risk
 
 To predict clients' loan repayment capability
 
-### Table of Contents
-
 ![](docs/Images/HomeCredit.png)
+
+### Table of Contents
 
 1. Source Data
   	* [Home Credit Risk](https://www.kaggle.com/c/home-credit-default-risk) 
