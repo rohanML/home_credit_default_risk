@@ -5,14 +5,16 @@ To predict clients' loan repayment capability
 
 ### Table of Contents
 
+![](docs/Images/HomeCredit.png)
+
 1. Source Data
   	* [Home Credit Risk](https://www.kaggle.com/c/home-credit-default-risk) 
  
 2. Documents
-  	* [Final Report](https://github.com/rohanML/home_credit_default_risk/blob/master/reports/Predicting%20Credit%20Default%20-%20Report.pdf)
-  The report contains a detailed account of the data, data wrangling, EDA, feature Engineering & modeling performed for this project.
   	* [Presentation](https://github.com/rohanML/home_credit_default_risk/blob/master/reports/Home%20Credit%20-%20Presentation.pdf)
   This presentation summarizes objective, data, process and business impact of the project. 
+	* [Final Report](https://github.com/rohanML/home_credit_default_risk/blob/master/reports/Predicting%20Credit%20Default%20-%20Report.pdf)
+  The report contains a detailed account of the data, data wrangling, EDA, feature Engineering & modeling performed for this project.
 3. Notebooks
 	* [Data Description](https://github.com/rohanML/home_credit_default_risk/blob/master/notebooks/00_Data_Description.ipynb)
 	* [Data Wrangling](https://github.com/rohanML/home_credit_default_risk/blob/master/notebooks/01_Data_Wrangling.ipynb)
